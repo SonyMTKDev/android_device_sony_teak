@@ -1,7 +1,7 @@
-Device Tree for SONY XPERIA XA1 (teak)
+Device Tree for SONY XPERIA XA1 PLUS (teak)
 ==================================================
 
-The SONY XPERIA XA1 (codenamed _"teak"_) is a mid-range phone from SONY.
+The SONY XPERIA XA1 PLUS (codenamed _"teak"_) is a mid-range phone from SONY.
 It was released in April 2017.
 
 
