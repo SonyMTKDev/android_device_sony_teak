@@ -1,2 +1,8 @@
 # Display
 ro.sf.lcd_density=480
+
+# SEMC
+ro.semc.ms_type_id=PM-1071-BV
+ro.semc.version.fs=GENERIC
+ro.semc.product.name=Xperia XA1 Plus
+ro.semc.product.device=G34
