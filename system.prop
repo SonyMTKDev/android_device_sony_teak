@@ -1,0 +1,8 @@
+ro.product.brand=Sony
+ro.product.name=G3412
+ro.product.device=G3412
+ro.build.product=teak
+#ro.treble.enabled=false
+#sys.usb.controller=a800000.dwc3
+#sys.usb.rndis.func.name=rndis_bam
+#sys.usb.rmnet.func.name=rmnet_bam
